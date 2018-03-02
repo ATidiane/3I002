@@ -1,0 +1,49 @@
+#mycanvas {
+    padding: 0;
+    margin: auto;
+    display: block;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: 2;
+    color: #FFB6C1;
+}
+
+h1{
+	border: 2px solid #E3F1E3;
+    padding: 20px 20px;
+    position: absolute;
+    right: 0;
+    left: 0;
+    margin-right: auto;
+    margin-left: auto;
+    color: #3b3b3b; 
+    width: 530px;
+    min-height: 2em;
+    text-align: center;
+    background-color:#EDFCED;
+    font: 20px Museo300Regular, Helvetica, Arial, sans-serif;
+}
+
+#button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.button-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    position: absolute;
+    right: 0;
+    left: 0; 
+	bottom: 30px;
+    width: 150px;
+}

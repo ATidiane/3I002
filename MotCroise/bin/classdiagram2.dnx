@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xtools2_universal_type_manager-->
+<!--Rational Software Architect Designer 9.5-->
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.mmi.ui.signatures.diagram" version="7.0.0"><feature description="" name="Rational Modeling Platform (com.ibm.xtools.rmp)" url="" version="7.0.0"/></signature>?>
+<umlnotation:UMLDiagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.3/Umlnotation" xmi:id="_kFZIYKHREeez9KsEu20MvQ" type="Class" name="classdiagram2.dnx">
+  <eAnnotations xmi:id="_kFZIYaHREeez9KsEu20MvQ" source="com.ibm.xtools.common.ui.reduction.editingCapabilities">
+    <details xmi:id="_kFZIYqHREeez9KsEu20MvQ" key="com.ibm.xtools.activities.javaVisualizerActivity" value="1"/>
+  </eAnnotations>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_kKu7YKHREeez9KsEu20MvQ" fontName="Cantarell" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_kKwJgKHREeez9KsEu20MvQ" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_kKwJgaHREeez9KsEu20MvQ" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_kKwJgqHREeez9KsEu20MvQ" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_kKwJg6HREeez9KsEu20MvQ" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_kKwJhKHREeez9KsEu20MvQ" type="Parent"/>
+    <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_kKwJhaHREeez9KsEu20MvQ" type="PackageContents" collapsed="true" canonical="false"/>
+    <element xmi:type="uml:Package" href="mmi:///#jpack%5Ename=pobj.motx.tme1.test%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=MotCroise%5D%5D$uml.Package"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_kKu7YaHREeez9KsEu20MvQ" y="4092"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_kKwwkKHREeez9KsEu20MvQ" fontName="Cantarell" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_kKwwkqHREeez9KsEu20MvQ" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_kKwwk6HREeez9KsEu20MvQ" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_kKxXoKHREeez9KsEu20MvQ" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_kKxXoaHREeez9KsEu20MvQ" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_kKxXoqHREeez9KsEu20MvQ" type="Parent"/>
+    <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_kKxXo6HREeez9KsEu20MvQ" type="PackageContents" collapsed="true" canonical="false"/>
+    <element xmi:type="uml:Package" href="mmi:///#jpack%5Ename=pobj.motx.tme3.csp.test%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=MotCroise%5D%5D$uml.Package"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_kKwwkaHREeez9KsEu20MvQ" x="8052"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_kKx-sKHREeez9KsEu20MvQ" fontName="Cantarell" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_kKx-sqHREeez9KsEu20MvQ" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_kKx-s6HREeez9KsEu20MvQ" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_kKx-tKHREeez9KsEu20MvQ" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_kKylwKHREeez9KsEu20MvQ" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_kKylwaHREeez9KsEu20MvQ" type="Parent"/>
+    <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_kKylwqHREeez9KsEu20MvQ" type="PackageContents" collapsed="true" canonical="false"/>
+    <element xmi:type="uml:Package" href="mmi:///#jpack%5Ename=pobj.motx.tme3.csp%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=MotCroise%5D%5D$uml.Package"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_kKx-saHREeez9KsEu20MvQ" x="10296" y="4092"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_kKylw6HREeez9KsEu20MvQ" fontName="Cantarell" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_kKzM0KHREeez9KsEu20MvQ" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_kKzM0aHREeez9KsEu20MvQ" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_kKzM0qHREeez9KsEu20MvQ" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_kKzM06HREeez9KsEu20MvQ" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_kKzM1KHREeez9KsEu20MvQ" type="Parent"/>
+    <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_kKzz4KHREeez9KsEu20MvQ" type="PackageContents" collapsed="true" canonical="false"/>
+    <element xmi:type="uml:Package" href="mmi:///#jpack%5Ename=pobj.motx.tme1%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=MotCroise%5D%5D$uml.Package"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_kKylxKHREeez9KsEu20MvQ" x="4488" y="8712"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_kKzz4aHREeez9KsEu20MvQ" fontName="Cantarell" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_kK0a8KHREeez9KsEu20MvQ" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_kK0a8aHREeez9KsEu20MvQ" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_kK0a8qHREeez9KsEu20MvQ" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_kK0a86HREeez9KsEu20MvQ" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_kK1CAKHREeez9KsEu20MvQ" type="Parent"/>
+    <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_kK1CAaHREeez9KsEu20MvQ" type="PackageContents" collapsed="true" canonical="false"/>
+    <element xmi:type="uml:Package" href="mmi:///#jpack%5Ename=pobj.motx.tme2%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=MotCroise%5D%5D$uml.Package"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_kKzz4qHREeez9KsEu20MvQ" x="9504" y="8712"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_kK1CAqHREeez9KsEu20MvQ" fontName="Cantarell" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_kK1pEKHREeez9KsEu20MvQ" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_kK1pEaHREeez9KsEu20MvQ" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_kK1pEqHREeez9KsEu20MvQ" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_kK1pE6HREeez9KsEu20MvQ" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_kK1pFKHREeez9KsEu20MvQ" type="Parent"/>
+    <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_kK1pFaHREeez9KsEu20MvQ" type="PackageContents" collapsed="true" canonical="false"/>
+    <element xmi:type="uml:Package" href="mmi:///#jpack%5Ename=pobj.motx.tme2.test%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=MotCroise%5D%5D$uml.Package"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_kK1CA6HREeez9KsEu20MvQ" x="4620" y="4092"/>
+  </children>
+  <element xsi:nil="true"/>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_kLNcgKHREeez9KsEu20MvQ" source="_kKu7YKHREeez9KsEu20MvQ" target="_kKylw6HREeez9KsEu20MvQ" fontName="Cantarell" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_kLP4wKHREeez9KsEu20MvQ" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_kLQf0KHREeez9KsEu20MvQ" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_kLQf0qHREeez9KsEu20MvQ" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_kLQf0aHREeez9KsEu20MvQ" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_kLP4waHREeez9KsEu20MvQ" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jpack-dep%5Bjpack%5Ename=pobj.motx.tme1%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=MotCroise%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_kLNcgaHREeez9KsEu20MvQ" points="[40, 101, -3282, -2724]$[40, 1767, -3282, -1058]$[3337, 1767, 15, -1058]$[3337, 2799, 15, -26]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_kM3CUKHREeez9KsEu20MvQ" id="(0.49999999999999994,0.9595494111623144)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_kM3pYKHREeez9KsEu20MvQ" id="(0.2002008554244066,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_kLQf06HREeez9KsEu20MvQ" source="_kKwwkKHREeez9KsEu20MvQ" target="_kKylw6HREeez9KsEu20MvQ" fontName="Cantarell" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_kLRG4KHREeez9KsEu20MvQ" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_kLRG4qHREeez9KsEu20MvQ" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_kLRG5KHREeez9KsEu20MvQ" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_kLRG46HREeez9KsEu20MvQ" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_kLRG4aHREeez9KsEu20MvQ" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jpack-dep%5Bjpack%5Ename=pobj.motx.tme1%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=MotCroise%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_kLQf1KHREeez9KsEu20MvQ" points="[20, 101, 3461, -7068]$[20, 709, 3461, -6460]$[-4983, 709, -1542, -6460]$[-4983, 5307, -1542, -1862]$[-3409, 5307, 32, -1862]$[-3409, 7185, 32, 16]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_kND2oKHREeez9KsEu20MvQ" id="(0.2502061766069221,0.9595494111623144)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_kNEdsKHREeez9KsEu20MvQ" id="(0.40020082183092504,0.1490015360983103)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_kLRt8KHREeez9KsEu20MvQ" source="_kKwwkKHREeez9KsEu20MvQ" target="_kKzz4aHREeez9KsEu20MvQ" fontName="Cantarell" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_kLRt8qHREeez9KsEu20MvQ" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_kLRt9KHREeez9KsEu20MvQ" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_kLRt9qHREeez9KsEu20MvQ" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_kLRt9aHREeez9KsEu20MvQ" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_kLRt86HREeez9KsEu20MvQ" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jpack-dep%5Bjpack%5Ename=pobj.motx.tme2%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=MotCroise%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_kLRt8aHREeez9KsEu20MvQ" points="[59, 101, -535, -7068]$[59, 709, -535, -6460]$[3175, 709, 2581, -6460]$[3175, 6365, 2581, -804]$[653, 6365, 59, -804]$[653, 7185, 59, 16]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_kNFEwKHREeez9KsEu20MvQ" id="(0.7502061766069217,0.9595494111623144)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_kNFEwaHREeez9KsEu20MvQ" id="(0.7502008890178878,0.1490015360983103)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_kLSVAKHREeez9KsEu20MvQ" source="_kKwwkKHREeez9KsEu20MvQ" target="_kKx-sKHREeez9KsEu20MvQ" fontName="Cantarell" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_kLS8EKHREeez9KsEu20MvQ" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_kLS8EqHREeez9KsEu20MvQ" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_kLS8FKHREeez9KsEu20MvQ" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_kLS8E6HREeez9KsEu20MvQ" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_kLS8EaHREeez9KsEu20MvQ" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jpack-dep%5Bjpack%5Ename=pobj.motx.tme3.csp%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=MotCroise%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_kLSVAaHREeez9KsEu20MvQ" points="[40, 101, -1848, -2470]$[40, 1238, -1848, -1333]$[1928, 1238, 40, -1333]$[1928, 2587, 40, 16]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_kNFr0KHREeez9KsEu20MvQ" id="(0.5002061766069221,0.9595494111623144)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_kNGS4KHREeez9KsEu20MvQ" id="(0.5,0.1490015360983103)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_kLTjIKHREeez9KsEu20MvQ" source="_kKx-sKHREeez9KsEu20MvQ" target="_kKzz4aHREeez9KsEu20MvQ" fontName="Cantarell" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_kLTjIqHREeez9KsEu20MvQ" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_kLTjJKHREeez9KsEu20MvQ" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_kLTjJqHREeez9KsEu20MvQ" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_kLTjJaHREeez9KsEu20MvQ" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_kLTjI6HREeez9KsEu20MvQ" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jpack-dep%5Bjpack%5Ename=pobj.motx.tme2%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=MotCroise%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_kLTjIaHREeez9KsEu20MvQ" points="[53, 101, 1617, -2999]$[53, 1767, 1617, -1333]$[-1524, 1767, 40, -1333]$[-1524, 3116, 40, 16]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_kNG58KHREeez9KsEu20MvQ" id="(0.6666668575879765,0.9595494111623144)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_kNG58aHREeez9KsEu20MvQ" id="(0.5002008890178873,0.1490015360983103)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_kLUKMKHREeez9KsEu20MvQ" source="_kKx-sKHREeez9KsEu20MvQ" target="_kKylw6HREeez9KsEu20MvQ" fontName="Cantarell" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_kLUKMqHREeez9KsEu20MvQ" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_kLUKNKHREeez9KsEu20MvQ" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_kLUKNqHREeez9KsEu20MvQ" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_kLUKNaHREeez9KsEu20MvQ" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_kLUKM6HREeez9KsEu20MvQ" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jpack-dep%5Bjpack%5Ename=pobj.motx.tme1%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=MotCroise%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_kLUKMaHREeez9KsEu20MvQ" points="[26, 101, 4660, -2999]$[26, 1238, 4660, -1862]$[-4570, 1238, 64, -1862]$[-4570, 3116, 64, 16]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_kNHhAKHREeez9KsEu20MvQ" id="(0.33333342879398825,0.9595494111623144)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_kNHhAaHREeez9KsEu20MvQ" id="(0.8002007546439626,0.1490015360983103)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_kLUxQKHREeez9KsEu20MvQ" source="_kK1CAqHREeez9KsEu20MvQ" target="_kKylw6HREeez9KsEu20MvQ" fontName="Cantarell" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_kLUxQqHREeez9KsEu20MvQ" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_kLUxRKHREeez9KsEu20MvQ" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_kLUxRqHREeez9KsEu20MvQ" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_kLUxRaHREeez9KsEu20MvQ" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_kLUxQ6HREeez9KsEu20MvQ" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jpack-dep%5Bjpack%5Ename=pobj.motx.tme1%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=MotCroise%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_kLUxQaHREeez9KsEu20MvQ" points="[26, 101, -394, -2999]$[26, 709, -394, -2391]$[467, 709, 47, -2391]$[467, 3116, 47, 16]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_kNIIEKHREeez9KsEu20MvQ" id="(0.3333334252364483,0.9595494111623144)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_kNIvIKHREeez9KsEu20MvQ" id="(0.600200788237444,0.1490015360983103)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_kLVYUKHREeez9KsEu20MvQ" source="_kK1CAqHREeez9KsEu20MvQ" target="_kKzz4aHREeez9KsEu20MvQ" fontName="Cantarell" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_kLVYUqHREeez9KsEu20MvQ" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_kLVYVKHREeez9KsEu20MvQ" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_kLVYVqHREeez9KsEu20MvQ" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_kLVYVaHREeez9KsEu20MvQ" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_kLVYU6HREeez9KsEu20MvQ" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jpack-dep%5Bjpack%5Ename=pobj.motx.tme2%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=MotCroise%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_kLVYUaHREeez9KsEu20MvQ" points="[53, 101, -3251, -2724]$[53, 709, -3251, -2116]$[3324, 709, 20, -2116]$[3324, 2799, 20, -26]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_kNJWMKHREeez9KsEu20MvQ" id="(0.6666667126182242,0.9595494111623144)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_kNJWMaHREeez9KsEu20MvQ" id="(0.25020088901788784,0.0)"/>
+  </edges>
+</umlnotation:UMLDiagram>

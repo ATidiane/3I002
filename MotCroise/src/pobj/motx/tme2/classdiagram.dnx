@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xtools2_universal_type_manager-->
+<!--Rational Software Architect Designer 9.5-->
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.mmi.ui.signatures.diagram" version="7.0.0"><feature description="" name="Rational Modeling Platform (com.ibm.xtools.rmp)" url="" version="7.0.0"/></signature>?>
+<umlnotation:UMLDiagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.3/Umlnotation" xmi:id="_g1CK4KHREeez9KsEu20MvQ" type="Class" name="classdiagram.dnx">
+  <eAnnotations xmi:id="_g1CK4aHREeez9KsEu20MvQ" source="com.ibm.xtools.common.ui.reduction.editingCapabilities">
+    <details xmi:id="_g1CK4qHREeez9KsEu20MvQ" key="com.ibm.xtools.activities.javaVisualizerActivity" value="1"/>
+  </eAnnotations>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_g6AKcKHREeez9KsEu20MvQ" fontName="Cantarell" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_g6CmsKHREeez9KsEu20MvQ" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_g6CmsaHREeez9KsEu20MvQ" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_g6CmsqHREeez9KsEu20MvQ" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_g6Cms6HREeez9KsEu20MvQ" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_g6DNwKHREeez9KsEu20MvQ" type="Parent"/>
+    <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_g6D00KHREeez9KsEu20MvQ" type="PackageContents" collapsed="true" canonical="false"/>
+    <element xmi:type="uml:Package" href="mmi:///#jpack%5Ename=pobj.motx.tme2%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=MotCroise%5D%5D$uml.Package"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_g6AKcaHREeez9KsEu20MvQ"/>
+  </children>
+  <element xsi:nil="true"/>
+</umlnotation:UMLDiagram>
